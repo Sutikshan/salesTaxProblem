@@ -1,4 +1,4 @@
-# salesTaxProblem
+# Sales Tax Problem
 Calculate Order total with application of sales tax
 
 For the solution, we would want you use JavaScript.
@@ -60,5 +60,4 @@ Output 3:
 1 packet of headache pills: 9.75
 1 imported box of chocolates: 11.85
 Sales Taxes: 6.70
-
 Total: 74.68
