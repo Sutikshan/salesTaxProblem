@@ -2,7 +2,7 @@
 Calculate Order total with application of sales tax
 
 For the solution, we would want you use JavaScript.
-We are interested in the DESIGN ASPECT of your solution and would like to evaluate your OOPS & Functional programming skills.
+We are interested in the DESIGN ASPECT of your solution and would like to evaluate your OOPS & *Functional programming* skills.
 You may use external libraries or tools for building or testing purposes.  Specifically, you may use unit testing libraries or build tools available for JavaScript ecosystem. 
 Optionally, you may also include a brief explanation of your design and assumptions along with your code.
 Kindly note that we are NOT expecting a web-based application or a comprehensive UI. Rather, we are expecting a simple, console based application and interested in your source code.
